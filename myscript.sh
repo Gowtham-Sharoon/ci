@@ -6,3 +6,4 @@ echo "Current date and time: $(date)"
 
 echo "Working fine"
 
+echo "Current date and time: $(date)"
